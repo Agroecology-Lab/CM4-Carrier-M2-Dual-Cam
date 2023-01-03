@@ -1,6 +1,8 @@
 # Gumstix Raspberry Pi CM4 Development Board
 ## PKG900000001400 ![PKG900000001400][thumbnail]
 
+BOM: https://docs.google.com/spreadsheets/d/1siX_6dxWHvlD7E4AzUsLcBuQbsi6p6X__28V6wGpNE8/edit?usp=sharing
+
 Designed by Gumstix in Geppetto, the **Gumstix Raspberry Pi CM4 Development Board** brings the best of the CM4 to light, from PCIe to Gigabit Ethernet to dual CSI2 cameras.  Whether you're building a NAS server or a face-detecting robot, The CM4 Development board has built-in features that will help your project along.  It provides the following connections for breaking out the features of the Raspberry Pi CM4:
 
 * Raspberry Pi 4 Header
